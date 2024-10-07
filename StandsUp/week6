@@ -1,0 +1,9 @@
+what did I done in the past week?
+  create mysql financial security database(daily price, data vendor, exchange, symbol)
+  download and parse the wikipedia list of snp500 by using libary requests and beautifulsoup
+  obtain data from yahoo finance price, startdate, enddate
+
+Challenge encountered in the past week?
+
+
+What will I do in the next week?
