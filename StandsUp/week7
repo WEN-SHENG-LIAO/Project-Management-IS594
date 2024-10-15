@@ -1,7 +1,8 @@
 what did I done in the past week?
 start a new sprint: time series anlysis and forcasting.
 learn Discriminant Analysis, support vector machine, random forest
-Sprint ecexution: Use open source code and up list classifiers to predict S&P500 closing price(equities benchmark.), forming a basis for a systematic trading strategy if accuracy exceeds 50%.
+Sprint ecexution: Use open source code and up list classifiers to predict S&P500 closing price(equities benchmark.), 
+forming a basis for a systematic trading strategy if accuracy exceeds 50%.
 
 Challenge encountered in the past week?
 coding debugging: Replaced pandas.io.data.DataReader with yfinance to fetch stock data
