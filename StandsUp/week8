@@ -1,0 +1,15 @@
+what did I done in the past week?
+try to build my own strategies-trade analysis、portfolio analysis、returns analysis, risk/reward analysis, and drawdown analysis.
+learn various aspects of managing risk in trading systems and risk management techniques
+
+Coding:
+risk/reward analysis: Sharpe ratio for the long/short market-neutral strategy
+Risk Management: Var(value at risk) VaR provides an estimate, under a given degree of confidence, of the size of a
+loss from a portfolio over a given time period. We are considering daily returns,
+with asset (or strategy) historical standard deviation σ and mean μ.
+
+
+Challenge encountered in the past week?
+
+What will I do in the next week?
+implementation of an event-driven backtesting system, primarily written in Python, with a focus on simulating high-frequency trading strategies.
