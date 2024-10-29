@@ -1,0 +1,14 @@
+What did I do in the past week?
+
+Moving Average Crossover Strategy(It involves using two moving averages with different time periods
+—a short-term and a long-term moving average—to generate buy and sell signals based on their interactions.)
+
+I began implementing a basic moving average crossover strategy using the event-driven framework, 
+understanding its significance for testing the backtesting system.
+
+Challenges encountered in the past week:
+translating the moving average crossover strategy logic into the framework was initially difficult due to the nuanced handling of signals and orders. 
+There was also the added complexity of backtesting with realistic transaction costs and data frequency.
+
+What will I do in the next week?
+I may try some of the other strategies based on intraday equities data
