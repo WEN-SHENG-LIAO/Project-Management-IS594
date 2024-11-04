@@ -1,0 +1,14 @@
+What did I do in the past week?
+Focused on understanding optimization techniques for algorithmic strategies. 
+I explored different parameter optimization methods like grid search and cross-validation
+, which help in selecting the best parameters for a trading strategy.
+
+Started implementing parameter sensitivity analysis to assess how changes in key inputs (e.g., moving average period) 
+impact the strategy’s performance.
+
+Challenges encountered in the past week:
+One challenge was managing the trade-off between optimizing parameters for maximum performance and avoiding overfitting. With numerous parameters, 
+it was easy to overfit the model to historical data, which could negatively impact real-world performance.
+
+What will I do in the next week?
+I plan to implement cross-validation techniques to validate the strategy on different datasets and reduce the risk of overfitting.
