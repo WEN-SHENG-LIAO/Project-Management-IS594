@@ -1,0 +1,15 @@
+What did I do in the past week?
+  I performed cross-validation on the optimized strategy, applying it to different historical periods. 
+  This helped assess the robustness of the strategy and identified any parameter sets that might lead to overfitting.
+
+Challenges encountered in the past week
+  One challenge was interpreting the results from random search and cross-validation, 
+  as certain parameter combinations performed well on some historical periods but not others, 
+  making it difficult to find a consistently strong set of parameters.
+  For example, parameters optimized for a high-volatility period didn’t generalize well to low-volatility periods, 
+  leading to inconsistent strategy performance.
+
+What will I do in the next week?
+  I plan to analyze the results from the cross-validation tests further to determine 
+  if certain parameter ranges perform consistently across multiple periods, 
+  rather than focusing on one specific set of parameters.
