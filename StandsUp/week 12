@@ -1,0 +1,15 @@
+What did I do in the past week?
+  Implemented Bayesian optimization as an enhancement over random search. 
+  This approach used prior performance data to guide parameter selection, improving the efficiency of the search process.
+
+Bayesian Optimization for a Moving Average Crossover Strategy in algorithmic trading.
+Moving Average Parameters、Stop-Loss and Take-Profit Levels、Position Sizing、Volatility Filter、Trade Execution Delay
+
+Challenges encountered in the past week:
+
+While Bayesian optimization reduced the number of iterations, it introduced complexity in setting up the prior distribution and tuning the acquisition function. 
+Understanding and debugging these components required significant time.
+
+What will I do in the next week?
+Test Bayesian Optimization with Reduced Parameter Sets: Simplify the parameter space by focusing on the most impactful parameters identified so far. 
+This will streamline the optimization process and improve interpretability.
