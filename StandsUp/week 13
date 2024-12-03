@@ -1,0 +1,15 @@
+What did I do in the past week?
+Refined Bayesian Optimization with Reduced Parameter Sets: Focused on key parameters such as moving average lengths (short_ma and long_ma), 
+stop-loss levels, and take-profit levels, using ranges identified from sensitivity analysis. This allowed faster and more efficient optimization.
+
+Implemented Walk-Forward Analysis: Tested the optimized parameters in sequential, non-overlapping historical data windows to simulate how the strategy 
+would adapt to changing market conditions over time.
+
+Challenges encountered in the past week:
+Parameter Stability Across Walk-Forward Windows: Optimized parameters performed inconsistently across different market regimes. While they excelled in trending markets, 
+their performance dropped significantly in range-bound or volatile conditions.
+
+What will I do in the next week?
+Develop a Hybrid Parameter Strategy: Combine static optimized parameters with dynamic adjustments for specific regimes 
+(e.g., use tighter stop-loss in volatile conditions and wider ones in trending markets)
+to improve adaptability and robustness.
